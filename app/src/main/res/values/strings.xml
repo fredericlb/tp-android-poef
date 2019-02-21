@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">TP1</string>
+  <string name="action_settings">Settings</string>
+  <string name="legume_color_input">Couleur du légume</string>
+  <string name="legume_name_input">Nom du légume</string>
+  <string name="display_legume_button">Afficher</string>
+</resources>
+
